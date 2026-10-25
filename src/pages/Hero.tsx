@@ -14,10 +14,7 @@ function Hero() {
                 <a href="https://www.pim.ac.th/" target="_blank" rel="noopener noreferrer" className="text-orange-600 font-bold mx-2">@PIM</a>
             </p>
             <p className="text-lg text-slate-500 mb-8">
-                I build digital products that solve real problems
-and create meaningful impact. From idea to
-deployment, I turn complex challenges into
-simple, beautiful solutions.
+                ผมสนใจการพัฒนาซอฟต์แวร์ การจัดการข้อมูล และการประยุกต์ใช้ AI เพื่อแก้ปัญหาในงานจริง ปัจจุบันกำลังพัฒนาทักษะด้าน Web Development และ Software Architecture พร้อมเรียนรู้เทคโนโลยีใหม่ ๆ
             </p>
             {/* <button type="button" className="flex gap-2 border-2 border-orange-600 text-orange-600 font-bold py-2 px-4 rounded-xl hover:bg-orange-600 hover:text-white transition duration-300 cursor-pointer">
                 Resume

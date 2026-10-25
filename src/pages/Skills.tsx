@@ -102,7 +102,7 @@ function Skills() {
 
     return (
         <>
-            <div className="w-full py-4">
+            <div className="w-full">
                 <div className="flex items-center justify-between">
                     <h2 className="text-2xl font-bold text-slate-900">Skills & Capabilities</h2>
                     
